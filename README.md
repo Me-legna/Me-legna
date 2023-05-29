@@ -1,6 +1,6 @@
 # Me-legna
 
-  Hi, I'm a recent graduate from App Academy where I honed my skills in software development. My current expertise lies in JavaScript, Python, React/Redux, SQL and more. I have a passion for using technology to solve complex problems. During my time at App Academy, I worked on both solo and collaborative projects, allowing me to develop a strong understanding of the full-stack development process.
+  Hi, I'm a graduate from App Academy where I honed my skills in software development. My current expertise lies in JavaScript, Python, React/Redux, SQL and more. I have a passion for using technology to solve complex problems. During my time at App Academy, I worked on both solo and collaborative projects, allowing me to develop a strong understanding of the full-stack development process.
 
 Aside from software development, I am an avid gamer and dabble in Dungeons & Dragons. I also enjoy cooking and experimenting with new recipes, as I believe it's important to have hobbies and interests outside of work.
 
